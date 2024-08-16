@@ -13,5 +13,5 @@ jobs:
         uses: Puthsihta/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: f958dd6a35ab9668dc09061bf08f74c3
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
